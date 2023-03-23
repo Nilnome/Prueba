@@ -6,11 +6,5 @@ Este proyecto esta  desarrollado para la **Universidad Continental**
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+
 ![logo UC](unicontinental.jpg)
