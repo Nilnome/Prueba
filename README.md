@@ -13,4 +13,4 @@ Este proyecto esta  desarrollado para la **Universidad Continental**
   "age": 25
 }
 ```
-![alt text](image.jpg)
+![logo UC](unicontinental.jpg)
